@@ -18,8 +18,8 @@ All configurations are in `configs` folder.
 - **Lock Screen** - SwayLock
 
 ## Images
-![](/assets/images/20230603194138_1.png")
-![](/assets/images/20230603194150_1.png")
-![](/assets/images/20230603194228_1.png")
-![](/assets/images/20230603194553_1.png")
+![](/assets/images/20230603194138_1.png)
+![](/assets/images/20230603194150_1.png)
+![](/assets/images/20230603194228_1.png)
+![](/assets/images/20230603194553_1.png)
 
